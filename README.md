@@ -7,7 +7,7 @@
 ## 论文信息
 - **中文标题**：迁移学习预测金属/共价有机骨架材料内小分子气体自扩散系数研究
 - **英文标题**：Transfer Learning Predicted the Self-Diffusion Coefficients of Light-Gas in Metal/Covalent Organic Frameworks
-- **作者**：彭天资<sup>a,†</sup>, 沈嘉克<sup>a,†</sup>, 郭淑雅<sup>c</sup>, 夏潇潇<sup>d,*</sup>, 李炜<sup>*,#,a,b,*</sup>
+- **作者**：彭天资<sup>a,†</sup>, 沈嘉克<sup>a,†</sup>, 郭淑雅<sup>c</sup>, 夏潇潇<sup>d,*</sup>, 李炜<sup>a,b,*</sup>
 - **期刊**：化学学报 (*Acta Chimica Sinica*)
 - **卷期页码**：2026, 84(3): 305-315
 - **DOI**：[10.6023/A25110385](https://doi.org/10.6023/A25110385)

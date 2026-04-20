@@ -32,6 +32,6 @@ This project is licensed under the MIT License (LICENSE).
 Please refer to the original paper and data sources for any restrictions on datasets or model weights.   
 
 ## Contact
-Feel free to open an Issue for any reproduction problems or suggestions.
+Feel free to open an Issue for any reproduction problems or suggestions.  
 Corresponding authors (according to the paper): Xiaoxiao Xia and Wei Li. 
 
